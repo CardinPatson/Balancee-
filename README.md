@@ -1,2 +1,2 @@
-# Balancee-
-Effectue une synthese de vos achat 
+# Balance- Fruit&Legume
+Let's go on javascript 🚀
